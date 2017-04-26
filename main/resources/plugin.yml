@@ -1,4 +1,4 @@
 main: io.github.thatsmusic99.logincheck.LoginCheck
-name: LoginCheck
+name: LoginMonitor
 version: 0.0.1
 description: Alerts players when a player is prevented from logging in.
